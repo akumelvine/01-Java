@@ -1,0 +1,2 @@
+- Penjelasan :
+Repository ini akan di Fokuskan untuk codingan Java
