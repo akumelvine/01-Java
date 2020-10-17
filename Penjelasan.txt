@@ -1,2 +1,3 @@
-- Penjelasan :
-Repository ini akan di Fokuskan untuk codingan Java
+Penjelasan :
+- Repository ini akan di Fokuskan untuk codingan Java
+- Repository ini berisi file file new bie
